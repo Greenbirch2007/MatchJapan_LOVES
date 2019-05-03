@@ -32,18 +32,16 @@ if __name__ == '__main__':
         time.sleep(6)  # 每三秒往下翻一页
         html = driver.page_source
         selector = etree.HTML(html)
-        name = selector.xpath(
-            '//*[@id="mainContent"]/section/section/div[2]/div[2]/div/div[1]/div/div/li/div/span/div/a/div/div/div/div/div/h6/div/div[1]/text()')
-        age_location = selector.xpath(
-            '//*[@id="mainContent"]/section/section/div[2]/div[2]/div/div[1]/div/div/li/div/span/div/a/div/div/div/div/div/div/span/div/text()')
-        for i1, i2 in zip(name, age_location):
-            big_list.append((i1, i2))
+        links = selector.xpath(
+            '//*[@id="mainContent"]/section/section/div[2]/div[2]/div/div[1]/div/div/li/div/span/div/a/div/img/@aria-describedby')
+        for item in links:
+            big_list.append(('https://jp.match.com/profile/'+str(item)+'?page=2&searchType=oneWaySearch&sortBy=1'))
 
         connection = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='123456',
                                      db='MatchJ_love',
                                      charset='utf8mb4', cursorclass=pymysql.cursors.DictCursor)
         cursor = connection.cursor()
-        cursor.executemany('insert into First_info (name,age_loc) values (%s,%s)', big_list)
+        cursor.executemany('insert into All_links (links) values (%s)', big_list)
         connection.commit()
         connection.close()
         print('向MySQL中添加数据成功！')
@@ -52,13 +50,11 @@ if __name__ == '__main__':
 
 
 # #
-# create table First_info(
+# create table All_links(
 # id int not null primary key auto_increment,
-# name varchar(80) unique,
-# age_loc varchar(88) unique
+# links text
 # ) engine=InnoDB  charset=utf8;
-#
-# drop table First_info;
 
+# drop table First_info;
 
 
