@@ -1104,3 +1104,73 @@ JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactM
 JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-00b3be6e05ba30ad41ab.chunk.js, line 123: TypeError: e is null
 JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-00b3be6e05ba30ad41ab.chunk.js, line 123: TypeError: e is null
 JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-00b3be6e05ba30ad41ab.chunk.js, line 123: TypeError: e is null
+1556937701405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tOBNkoy0XtGQ"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1556937717305	Marionette	INFO	Listening on port 33483
+1556937717353	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27955): dconf-WARNING **: 10:43:37.666: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 118: Error: [object ProgressEvent]
+1556937964183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.stbUbVRTjMKL"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556937970668	Marionette	INFO	Listening on port 46099
+1556937970704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.appdynamics.com/adrum-ext.15ad9e12c414858a5e6cfdfb1f2331b1.js, line 69: NS_ERROR_XPC_SECURITY_MANAGER_VETO: 
+1556938116482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AstuAC2qbcQ6"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556938122423	Marionette	INFO	Listening on port 46651
+1556938122489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556938360545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yz0uqUXkg9Yf"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556938369057	Marionette	INFO	Listening on port 36287
+1556938369093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556938370008	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1556938376077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.03Mv60iAbk8e"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556938380612	Marionette	INFO	Listening on port 36463
+1556938380696	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 588, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1556938401173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.duARbxOXm4Nr"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556938405712	Marionette	INFO	Listening on port 36577
+1556938405798	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x10003B,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1556938575864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XBw5jodmTlFq"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1556938587611	Marionette	INFO	Listening on port 39689
+1556938587725	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1203, Gecko_IOThread] WARNING: pipe error (124): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1249, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 1249, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 1249, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1556939487986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dsvfkoDwozJ8"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556939500641	Marionette	INFO	Listening on port 34161
+1556939500702	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9554, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1556939606283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UnLQu6yqiBlh"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556939611764	Marionette	INFO	Listening on port 41045
+1556939611814	Marionette	WARN	TLS certificate errors will be ignored for this session
