@@ -1,0 +1,26 @@
+1556946937944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eqfyZRJngU0B"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556946942617	Marionette	INFO	Listening on port 40089
+1556946942669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.chenxm.cc/static/plugins/Blogs/script/custom.js, line 1: ReferenceError: zbp is not defined
+1556946972468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A76ExF7j3Y06"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556946976810	Marionette	INFO	Listening on port 41785
+1556946976889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.chenxm.cc/static/plugins/Blogs/script/custom.js, line 1: ReferenceError: zbp is not defined
+1556947048141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZyHD4mQ7ZkrY"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556947053079	Marionette	INFO	Listening on port 39449
+1556947053160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.chenxm.cc/static/plugins/Blogs/script/custom.js, line 1: ReferenceError: zbp is not defined
+1556947111004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IxRJxQPDOa4u"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556947115253	Marionette	INFO	Listening on port 41227
+1556947115333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.chenxm.cc/static/plugins/Blogs/script/custom.js, line 1: ReferenceError: zbp is not defined
+1556947190480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8SYTLYnoew7U"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556947195987	Marionette	INFO	Listening on port 42509
+1556947196027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.chenxm.cc/static/plugins/Blogs/script/custom.js, line 1: ReferenceError: zbp is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown

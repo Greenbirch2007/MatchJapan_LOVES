@@ -91,7 +91,7 @@ if __name__ == '__main__':
 
         urllib.request.urlretrieve(item, '/home/g/Documents/matchLove_Pics/%s.jpg' % url_name )
 
-    print(content)
+    print(datetime.datetime.now())
 
 
 

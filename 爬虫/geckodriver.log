@@ -1174,3 +1174,3567 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js,
 JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
 1556939611764	Marionette	INFO	Listening on port 41045
 1556939611814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556940183222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W3UnPs5ZmJEc"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556940188231	Marionette	INFO	Listening on port 46201
+1556940188267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556940862925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.32jaxeiAie6u"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556940869589	Marionette	INFO	Listening on port 45337
+1556940869668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556941200052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FIn3mDnCZPjV"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556941204482	Marionette	INFO	Listening on port 33007
+1556941204570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+1556941608578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fnzobukW51fM"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556941613495	Marionette	INFO	Listening on port 41447
+1556941613597	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29486): dconf-WARNING **: 11:48:31.004: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+1556941951661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gdw7iMh17GZo"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556941956000	Marionette	INFO	Listening on port 40535
+1556941956080	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31126): dconf-WARNING **: 11:54:13.855: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556942300502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MpPjf7pdYi3o"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556942305031	Marionette	INFO	Listening on port 36985
+1556942305122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 118: Error: <!DOCTYPE html>
+<html>
+<head>
+  <meta charSet="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="match:err:src" content="m012wlw"/>
+  <title>Match� | The Leading Online Dating Site for Singles &amp; Personals</title>
+  <style>
+    @import url("https://fonts.googleapis.com/css?family=Varela+Round");
+    @import url("https://fonts.googleapis.com/css?family=Pacifico");
+    #frame {
+      position: relative;
+      height: 200px;
+      width: 200px;
+      overflow: hidden;
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+    }
+
+    #overlay {
+      font-family: 'Pacifico', cursive;
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #fafafa;
+      z-index: 2;
+      color: #ff007f;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      text-align: center;
+      line-height: 1.2;
+      display: none;
+    }
+    #overlay.visible {
+      display: flex;
+      animation: overlay 300ms ease-in-out;
+      opacity: .7;
+      transform: scale(1.3);
+    }
+    @keyframes overlay {
+      from {
+        transform: scale(1);
+        opacity: 0;
+      }
+      30% {
+        opacity: .5;
+        transform: scale(2);
+      }
+      to {
+        transform: scale(1.3);
+        opacity: .7;
+      }
+    }
+    #card {
+      box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2);
+    }
+
+
+    h3, h4 {
+      font-family: 'Varela Round', sans-serif;
+      text-align: center;
+      color: #777d7d;
+      margin: 30px auto 10px;
+      padding: 0 10px
+    }
+
+    h4 {
+      margin: 0 0 30px 0;
+      font-size: 14px;
+    }
+
+
+    .button-container {
+      width: 100%;
+      background-color: #fafafa;
+      padding: 8px;
+      display: flex;
+      align-items: middle;
+      justify-content: space-around;
+    }
+
+    .button {
+      padding: 5px 15px;
+      border-radius: 70px;
+      border: none;
+      font-size: 14px;
+      min-width: 65px;
+      outline: none;
+    }
+    .button-fetch {
+      color: #777d7d;
+      background-color: #e6e7e7;
+    }
+    .button-pet {
+      color: #fafafa;
+      background-color: #ff007f;
+    }
+
+    .dog .ear {
+      position: absolute;
+      z-index: -2;
+      bottom: -10px;
+    }
+    .dog .ear:after, .dog .ear:before {
+      content: '';
+      display: inline-block;
+      width: 40px;
+      z-index: -1000;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.3);
+    }
+    .dog .ear:after {
+      right: 70%;
+      box-sizing: border-box;
+    }
+    .dog .ear:before {
+      left: 70%;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    html, body {
+      background: #fafafa;
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    *, *:before, *:after {
+      box-sizing: border-box;
+      position: relative;
+    }
+
+    .dog {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+    }
+    .dog:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.03);
+      transform: translateY(-10%) scale(1.5);
+    }
+    .dog * {
+      position: absolute;
+    }
+    .dog .body {
+      top: 50%;
+      animation: dog-body 600ms ease-in-out infinite alternate;
+      width: 100%;
+      height: 100%;
+      box-shadow: inset 0 -15px 0 0 #ca9b50;
+    }
+    .dog .body:before {
+      content: '';
+      position: absolute;
+      bottom: 20%;
+      right: 50%;
+      width: 90%;
+      height: 90%;
+      border-top-left-radius: 100%;
+      border-bottom-left-radius: 10%;
+      border-top-right-radius: 10%;
+      background: rgba(214, 177, 119, 0.4);
+      transform-origin: right bottom;
+      animation: dog-tail-blur 600ms 100ms ease-in-out infinite alternate both;
+    }
+    @keyframes dog-tail-blur {
+      from {
+        transform: rotate(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      to {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+    @keyframes dog-body {
+      from {
+        transform: translateX(-5%);
+      }
+      to {
+        transform: translateX(5%);
+      }
+    }
+    .dog .head {
+      animation: dog-head 5400ms cubic-bezier(0.11, 0.79, 0, 0.99) infinite;
+      z-index: 1;
+    }
+    @keyframes dog-head {
+      from, to {
+        transform: rotate(45deg);
+      }
+      33.3% {
+        transform: rotate(-45deg);
+      }
+      66.6% {
+        transform: rotate(0);
+      }
+    }
+    .dog .torso {
+      top: 40%;
+      animation: dog-torso 600ms ease-in-out infinite alternate-reverse;
+    }
+    @keyframes dog-torso {
+      from {
+        transform: translateX(-2%);
+      }
+      to {
+        transform: translateX(2%);
+      }
+    }
+    .dog .torso #collar {
+      display: block;
+      width: 80%;
+      height: 60%;
+      top: 15%;
+      left: 10%;
+      border-radius: 50%;
+      z-index: 4;
+    }
+    .dog .eyes {
+      width: 70%;
+      top: 45%;
+      left: 15%;
+      z-index: 1;
+    }
+    .dog .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #000;
+      z-index: 1;
+      animation: dog-eye 5400ms infinite;
+    }
+    @keyframes dog-eye {
+      from, to {
+        animation-timing-function: step-end;
+        opacity: 1;
+      }
+      50%, 55% {
+        animation-timing-function: step-start;
+        opacity: 0;
+      }
+    }
+    .dog .eye:before {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 8px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 4px;
+      left: 4px;
+    }
+    .dog .eye:after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 3px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 12px;
+      left: 12px;
+    }
+    .dog .eye:first-child {
+      left: 0;
+    }
+    .dog .eye:last-child {
+      right: 0;
+    }
+    .dog .muzzle {
+      width: 50%;
+      height: 30%;
+      bottom: 5%;
+      left: 24%;
+      border: none;
+      border-radius: 50% / 40% 40% 60% 60%;
+      background: #eedec5;
+      z-index: 1;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog .muzzle:before, .dog .muzzle:after {
+      content: '';
+      display: block;
+      position: absolute;
+    }
+    .dog .muzzle:before {
+      width: 6px;
+      height: 20px;
+      bottom: 0;
+      left: calc(50% - 3px);
+      background: #ca9b50;
+    }
+    .dog .muzzle:after {
+      background: black;
+      width: 20px;
+      height: 15px;
+      bottom: 12px;
+      left: calc(50% - 10px);
+      border-bottom-left-radius: 60% 60%;
+      border-bottom-right-radius: 60% 60%;
+      border-top-left-radius: 50% 40%;
+      border-top-right-radius: 50% 40%;
+    }
+    .dog .tongue {
+      width: 25px;
+      height: 30%;
+      left: calc(50% - 18px);
+      bottom: 0;
+      z-index: 0;
+      transform-origin: center bottom;
+      animation: dog-tongue 5400ms -50ms ease-in-out infinite;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    @keyframes dog-tongue {
+      from, to {
+        transform: rotate(0);
+      }
+      16.6666666667% {
+        transform: rotate(30deg);
+      }
+      33.3333333333%, 66.6666666667% {
+        transform: rotate(0);
+      }
+      50%, 83.3333333333% {
+        transform: rotate(-20deg);
+      }
+    }
+    .dog .tongue:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 40px;
+      background: #FD3163;
+      animation: dog-tongue-inner 300ms ease-in-out infinite alternate;
+    }
+    @keyframes dog-tongue-inner {
+      from {
+        transform: translateY(5%);
+      }
+      to {
+        transform: translateY(22%);
+      }
+    }
+    .dog .body .leg {
+      position: absolute;
+      display: block;
+      height: 70%;
+      width: 40px;
+      top: 35%;
+      background-color: #D6B177;
+      z-index: 3;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+    }
+    .dog .body .leg:first-child {
+      left: -10px;
+      transform: rotate(-10deg);
+    }
+    .dog .body .leg:last-child {
+      right: -10px;
+      transform: rotate(10deg);
+    }
+    .dog .ears {
+      width: 40%;
+      top: 50%;
+      left: 30%;
+      animation: dog-ears 5400ms 300ms ease infinite;
+    }
+    @keyframes dog-ears {
+      42.3%, 71.6% {
+        transform: rotate(-5deg);
+      }
+      50.3%, 79.6% {
+        transform: rotate(5deg);
+      }
+      5% {
+        transform: rotate(5deg);
+      }
+      12% {
+        transform: rotate(-5%);
+      }
+      from, 33.3%, 66%, to {
+        transform: rotate(0);
+      }
+    }
+    .dog .body, .dog .torso, .dog .face {
+      border-radius: 50%;
+      background: #D6B177;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog .head {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog .face {
+      width: 100%;
+      height: 95%;
+      border-radius: 50% / 45% 45% 30% 30%;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog .ear.ear-1:after, .dog .ear.ear-1:before {
+      height: 90px;
+    }
+    .dog .ear.ear-1:before {
+      bottom: -99px;
+    }
+    .dog .ear.ear-1:after, .dog .ear.ear-1:before {
+      border-radius: 100% 100% 0 0;
+    }
+    .dog .ear.ear-2:after, .dog .ear.ear-2:before {
+      height: 80px;
+    }
+    .dog .ear.ear-2:before {
+      bottom: -88px;
+    }
+    .dog .ear.ear-2:before {
+      border-radius: 100% 500% 0 0;
+    }
+    .dog .ear.ear-2:after {
+      border-radius: 500% 100% 0 0;
+    }
+    .dog .ear.ear-3:after, .dog .ear.ear-3:before {
+      height: 75px;
+    }
+    .dog .ear.ear-3:before {
+      bottom: -82.5px;
+    }
+    .dog .ear.ear-3:before {
+      transform: translateX(5px) rotate(15deg);
+      border-radius: 100% 100% 0 0;
+    }
+    .dog .ear.ear-3:after {
+      transform: translateX(-5px) rotate(-15deg);
+      border-radius: 100% 100% 0 0;
+    }
+    .dog .ear.ear-4:after, .dog .ear.ear-4:before {
+      height: 90px;
+    }
+    .dog .ear.ear-4:before {
+      bottom: -99px;
+    }
+    .dog .ear.ear-4::before {
+      transform: rotate(45deg) translateX(5px);
+      border-top-left-radius: 68% 100%;
+      border-top-right-radius: 100% 100%;
+    }
+    .dog .ear.ear-4::after {
+      transform: rotate(-5deg);
+      border-top-right-radius: 68% 100%;
+      border-top-left-radius: 100% 100%;
+    }
+    .dog .ear.ear-5:after, .dog .ear.ear-5:before {
+      height: 90px;
+    }
+    .dog .ear.ear-5:before {
+      bottom: -99px;
+    }
+    .dog .ear.ear-5::before {
+      border-top-left-radius: 68% 100%;
+      border-top-right-radius: 100% 100%;
+    }
+    .dog .ear.ear-5::after {
+      border-top-right-radius: 68% 100%;
+      border-top-left-radius: 100% 100%;
+    }
+    .dog .ear.ear-6:after, .dog .ear.ear-6:before {
+      height: 90px;
+    }
+    .dog .ear.ear-6:before {
+      bottom: -99px;
+    }
+    .dog .ear.ear-6::before, .dog .ear.ear-6::after {
+      border-bottom-left-radius: 40px;
+      border-bottom-right-radius: 40px;
+    }
+    .dog .ear.ear-6::before {
+      transform: rotate(180deg) translateX(-15px) translateY(-50px);
+      border-top-left-radius: 68% 100%;
+      border-top-right-radius: 100% 100%;
+    }
+    .dog .ear.ear-6::after {
+      transform: rotate(180deg) translateX(15px) translateY(-50px);
+      border-top-right-radius: 68% 100%;
+      border-top-left-radius: 100% 100%;
+    }
+    .dog .ear.ear-7:after, .dog .ear.ear-7:before {
+      height: 70px;
+    }
+    .dog .ear.ear-7:before {
+      bottom: -77px;
+    }
+    .dog .ear.ear-7::before, .dog .ear.ear-7::after {
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+    }
+    .dog .ear.ear-7::before {
+      transform: rotate(155deg) translateX(-20px) translateY(-15px);
+      border-top-left-radius: 30% 100%;
+      border-top-right-radius: 100% 100%;
+    }
+    .dog .ear.ear-7::after {
+      transform: rotate(205deg) translateX(20px) translateY(-15px);
+      border-top-right-radius: 30% 100%;
+      border-top-left-radius: 100% 100%;
+    }
+    .dog .ear.ear-8:after, .dog .ear.ear-8:before {
+      height: 60px;
+    }
+    .dog .ear.ear-8:before {
+      bottom: -66px;
+    }
+    .dog .ear.ear-8::before, .dog .ear.ear-8::after {
+      border-bottom-left-radius: 25px;
+      border-bottom-right-radius: 25px;
+    }
+    .dog .ear.ear-8::before {
+      transform: rotate(135deg) translateX(-15px) translateY(-10px);
+      border-top-left-radius: 30% 100%;
+      border-top-right-radius: 100% 100%;
+    }
+    .dog .ear.ear-8::after {
+      transform: rotate(225deg) translateX(15px) translateY(-10px);
+      border-top-right-radius: 30% 100%;
+      border-top-left-radius: 100% 100%;
+    }
+    .dog .ear.ear-9:after, .dog .ear.ear-9:before {
+      height: 50px;
+    }
+    .dog .ear.ear-9:before {
+      bottom: -55px;
+    }
+    .dog .ear.ear-9::before, .dog .ear.ear-9::after {
+      border-bottom-left-radius: 40px;
+      border-bottom-right-radius: 40px;
+    }
+    .dog .ear.ear-9::before {
+      transform: rotate(135deg) translateX(-20px) translateY(0);
+      border-top-left-radius: 10% 100%;
+      border-top-right-radius: 100% 100%;
+    }
+    .dog .ear.ear-9::after {
+      transform: rotate(225deg) translateX(20px) translateY(0);
+      border-top-right-radius: 10% 100%;
+      border-top-left-radius: 100% 100%;
+    }
+    .dog .ear.ear-10:after, .dog .ear.ear-10:before {
+      height: 70px;
+    }
+    .dog .ear.ear-10:before {
+      bottom: -77px;
+    }
+    .dog .ear.ear-10::before, .dog .ear.ear-10::after {
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+    }
+    .dog .ear.ear-10::before {
+      transform: translateX(10px) translateY(-15px);
+      border-top-left-radius: 40% 100%;
+      border-top-right-radius: 100% 100%;
+    }
+    .dog .ear.ear-10::after {
+      transform: rotate(250deg) translateX(10px) translateY(-15px);
+      border-top-right-radius: 40% 100%;
+      border-top-left-radius: 100% 100%;
+    }
+    .dog-white {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+    }
+    .dog-white:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.03);
+      transform: translateY(-10%) scale(1.5);
+    }
+    .dog-white * {
+      position: absolute;
+    }
+    .dog-white .body {
+      top: 50%;
+      animation: dog-body 600ms ease-in-out infinite alternate;
+      width: 100%;
+      height: 100%;
+      box-shadow: inset 0 -15px 0 0 #e1e1e1;
+    }
+    .dog-white .body:before {
+      content: '';
+      position: absolute;
+      bottom: 20%;
+      right: 50%;
+      width: 90%;
+      height: 90%;
+      border-top-left-radius: 100%;
+      border-bottom-left-radius: 10%;
+      border-top-right-radius: 10%;
+      background: rgba(250, 250, 250, 0.4);
+      transform-origin: right bottom;
+      animation: dog-tail-blur 600ms 100ms ease-in-out infinite alternate both;
+    }
+    @keyframes dog-tail-blur {
+      from {
+        transform: rotate(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      to {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+    @keyframes dog-body {
+      from {
+        transform: translateX(-5%);
+      }
+      to {
+        transform: translateX(5%);
+      }
+    }
+    .dog-white .head {
+      animation: dog-head 5400ms cubic-bezier(0.11, 0.79, 0, 0.99) infinite;
+      z-index: 1;
+    }
+    @keyframes dog-head {
+      from, to {
+        transform: rotate(45deg);
+      }
+      33.3% {
+        transform: rotate(-45deg);
+      }
+      66.6% {
+        transform: rotate(0);
+      }
+    }
+    .dog-white .torso {
+      top: 40%;
+      animation: dog-torso 600ms ease-in-out infinite alternate-reverse;
+    }
+    @keyframes dog-torso {
+      from {
+        transform: translateX(-2%);
+      }
+      to {
+        transform: translateX(2%);
+      }
+    }
+    .dog-white .torso #collar {
+      display: block;
+      width: 80%;
+      height: 60%;
+      top: 15%;
+      left: 10%;
+      border-radius: 50%;
+      z-index: 4;
+    }
+    .dog-white .eyes {
+      width: 70%;
+      top: 45%;
+      left: 15%;
+      z-index: 1;
+    }
+    .dog-white .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #000;
+      z-index: 1;
+      animation: dog-eye 5400ms infinite;
+    }
+    @keyframes dog-eye {
+      from, to {
+        animation-timing-function: step-end;
+        opacity: 1;
+      }
+      50%, 55% {
+        animation-timing-function: step-start;
+        opacity: 0;
+      }
+    }
+    .dog-white .eye:before {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 8px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 4px;
+      left: 4px;
+    }
+    .dog-white .eye:after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 3px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 12px;
+      left: 12px;
+    }
+    .dog-white .eye:first-child {
+      left: 0;
+    }
+    .dog-white .eye:last-child {
+      right: 0;
+    }
+    .dog-white .muzzle {
+      width: 50%;
+      height: 30%;
+      bottom: 5%;
+      left: 24%;
+      border: none;
+      border-radius: 50% / 40% 40% 60% 60%;
+      background: white;
+      z-index: 1;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-white .muzzle:before, .dog-white .muzzle:after {
+      content: '';
+      display: block;
+      position: absolute;
+    }
+    .dog-white .muzzle:before {
+      width: 6px;
+      height: 20px;
+      bottom: 0;
+      left: calc(50% - 3px);
+      background: #e1e1e1;
+    }
+    .dog-white .muzzle:after {
+      background: black;
+      width: 20px;
+      height: 15px;
+      bottom: 12px;
+      left: calc(50% - 10px);
+      border-bottom-left-radius: 60% 60%;
+      border-bottom-right-radius: 60% 60%;
+      border-top-left-radius: 50% 40%;
+      border-top-right-radius: 50% 40%;
+    }
+    .dog-white .tongue {
+      width: 25px;
+      height: 30%;
+      left: calc(50% - 18px);
+      bottom: 0;
+      z-index: 0;
+      transform-origin: center bottom;
+      animation: dog-tongue 5400ms -50ms ease-in-out infinite;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    @keyframes dog-tongue {
+      from, to {
+        transform: rotate(0);
+      }
+      16.6666666667% {
+        transform: rotate(30deg);
+      }
+      33.3333333333%, 66.6666666667% {
+        transform: rotate(0);
+      }
+      50%, 83.3333333333% {
+        transform: rotate(-20deg);
+      }
+    }
+    .dog-white .tongue:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 40px;
+      background: #FD3163;
+      animation: dog-tongue-inner 300ms ease-in-out infinite alternate;
+    }
+    @keyframes dog-tongue-inner {
+      from {
+        transform: translateY(5%);
+      }
+      to {
+        transform: translateY(22%);
+      }
+    }
+    .dog-white .body .leg {
+      position: absolute;
+      display: block;
+      height: 70%;
+      width: 40px;
+      top: 35%;
+      background-color: #fafafa;
+      z-index: 3;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+    }
+    .dog-white .body .leg:first-child {
+      left: -10px;
+      transform: rotate(-10deg);
+    }
+    .dog-white .body .leg:last-child {
+      right: -10px;
+      transform: rotate(10deg);
+    }
+    .dog-white .ears {
+      width: 40%;
+      top: 50%;
+      left: 30%;
+      animation: dog-ears 5400ms 300ms ease infinite;
+    }
+    @keyframes dog-ears {
+      42.3%, 71.6% {
+        transform: rotate(-5deg);
+      }
+      50.3%, 79.6% {
+        transform: rotate(5deg);
+      }
+      5% {
+        transform: rotate(5deg);
+      }
+      12% {
+        transform: rotate(-5%);
+      }
+      from, 33.3%, 66%, to {
+        transform: rotate(0);
+      }
+    }
+    .dog-white .body, .dog-white .torso, .dog-white .face {
+      border-radius: 50%;
+      background: #fafafa;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-white .head {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-white .face {
+      width: 100%;
+      height: 95%;
+      border-radius: 50% / 45% 45% 30% 30%;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-white .ear {
+      position: absolute;
+      z-index: -2;
+      bottom: -10px;
+    }
+    .dog-white .ear:after, .dog-white .ear:before {
+      background: #e1e1e1;
+    }
+    .dog-white .ear:after {
+      border: 10px solid #fafafa;
+    }
+    .dog-white .ear.ear-6::before, .dog-white .ear.ear-6::after, .dog-white .ear.ear-7::before, .dog-white .ear.ear-7::after, .dog-white .ear.ear-8::before, .dog-white .ear.ear-8::after, .dog-white .ear.ear-9::before, .dog-white .ear.ear-9::after, .dog-white .ear.ear-10::before, .dog-white .ear.ear-10::after {
+      border-color: #e1e1e1;
+    }
+    .dog .accent-white.accent-1 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 45px;
+      border-radius: 40px;
+      position: absolute;
+      background: #fafafa;
+      top: -15px;
+      left: -10px;
+      z-index: 1;
+      border-left-width: 0;
+      border-bottom-width: 0;
+      border-top-width: 0;
+      transform: rotate(-45deg);
+    }
+    .dog .accent-white.accent-2 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 25px;
+      border-radius: 40px;
+      position: absolute;
+      background: #fafafa;
+      top: -5px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 0;
+    }
+    .dog .accent-white.accent-3 {
+      height: 10px;
+      width: 90%;
+      top: -15px;
+      left: 5%;
+    }
+    .dog .accent-white.accent-3:before, .dog .accent-white.accent-3:after {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 12px;
+      background: #fafafa;
+      z-index: 2;
+      border-radius: 50%/ 60% 60% 30% 30%;
+      position: absolute;
+    }
+    .dog .accent-white.accent-3:before {
+      left: 10%;
+      transform: rotate(20deg);
+    }
+    .dog .accent-white.accent-3:after {
+      right: 10%;
+      transform: rotate(-20deg);
+    }
+    .dog-black {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+    }
+    .dog-black:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.03);
+      transform: translateY(-10%) scale(1.5);
+    }
+    .dog-black * {
+      position: absolute;
+    }
+    .dog-black .body {
+      top: 50%;
+      animation: dog-body 600ms ease-in-out infinite alternate;
+      width: 100%;
+      height: 100%;
+      box-shadow: inset 0 -15px 0 0 #0f1010;
+    }
+    .dog-black .body:before {
+      content: '';
+      position: absolute;
+      bottom: 20%;
+      right: 50%;
+      width: 90%;
+      height: 90%;
+      border-top-left-radius: 100%;
+      border-bottom-left-radius: 10%;
+      border-top-right-radius: 10%;
+      background: rgba(40, 42, 42, 0.4);
+      transform-origin: right bottom;
+      animation: dog-tail-blur 600ms 100ms ease-in-out infinite alternate both;
+    }
+    @keyframes dog-tail-blur {
+      from {
+        transform: rotate(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      to {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+    @keyframes dog-body {
+      from {
+        transform: translateX(-5%);
+      }
+      to {
+        transform: translateX(5%);
+      }
+    }
+    .dog-black .head {
+      animation: dog-head 5400ms cubic-bezier(0.11, 0.79, 0, 0.99) infinite;
+      z-index: 1;
+    }
+    @keyframes dog-head {
+      from, to {
+        transform: rotate(45deg);
+      }
+      33.3% {
+        transform: rotate(-45deg);
+      }
+      66.6% {
+        transform: rotate(0);
+      }
+    }
+    .dog-black .torso {
+      top: 40%;
+      animation: dog-torso 600ms ease-in-out infinite alternate-reverse;
+    }
+    @keyframes dog-torso {
+      from {
+        transform: translateX(-2%);
+      }
+      to {
+        transform: translateX(2%);
+      }
+    }
+    .dog-black .torso #collar {
+      display: block;
+      width: 80%;
+      height: 60%;
+      top: 15%;
+      left: 10%;
+      border-radius: 50%;
+      z-index: 4;
+    }
+    .dog-black .eyes {
+      width: 70%;
+      top: 45%;
+      left: 15%;
+      z-index: 1;
+    }
+    .dog-black .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #000;
+      z-index: 1;
+      animation: dog-eye 5400ms infinite;
+    }
+    @keyframes dog-eye {
+      from, to {
+        animation-timing-function: step-end;
+        opacity: 1;
+      }
+      50%, 55% {
+        animation-timing-function: step-start;
+        opacity: 0;
+      }
+    }
+    .dog-black .eye:before {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 8px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 4px;
+      left: 4px;
+    }
+    .dog-black .eye:after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 3px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 12px;
+      left: 12px;
+    }
+    .dog-black .eye:first-child {
+      left: 0;
+    }
+    .dog-black .eye:last-child {
+      right: 0;
+    }
+    .dog-black .muzzle {
+      width: 50%;
+      height: 30%;
+      bottom: 5%;
+      left: 24%;
+      border: none;
+      border-radius: 50% / 40% 40% 60% 60%;
+      background: #5a5e5e;
+      z-index: 1;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-black .muzzle:before, .dog-black .muzzle:after {
+      content: '';
+      display: block;
+      position: absolute;
+    }
+    .dog-black .muzzle:before {
+      width: 6px;
+      height: 20px;
+      bottom: 0;
+      left: calc(50% - 3px);
+      background: #0f1010;
+    }
+    .dog-black .muzzle:after {
+      background: black;
+      width: 20px;
+      height: 15px;
+      bottom: 12px;
+      left: calc(50% - 10px);
+      border-bottom-left-radius: 60% 60%;
+      border-bottom-right-radius: 60% 60%;
+      border-top-left-radius: 50% 40%;
+      border-top-right-radius: 50% 40%;
+    }
+    .dog-black .tongue {
+      width: 25px;
+      height: 30%;
+      left: calc(50% - 18px);
+      bottom: 0;
+      z-index: 0;
+      transform-origin: center bottom;
+      animation: dog-tongue 5400ms -50ms ease-in-out infinite;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    @keyframes dog-tongue {
+      from, to {
+        transform: rotate(0);
+      }
+      16.6666666667% {
+        transform: rotate(30deg);
+      }
+      33.3333333333%, 66.6666666667% {
+        transform: rotate(0);
+      }
+      50%, 83.3333333333% {
+        transform: rotate(-20deg);
+      }
+    }
+    .dog-black .tongue:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 40px;
+      background: #FD3163;
+      animation: dog-tongue-inner 300ms ease-in-out infinite alternate;
+    }
+    @keyframes dog-tongue-inner {
+      from {
+        transform: translateY(5%);
+      }
+      to {
+        transform: translateY(22%);
+      }
+    }
+    .dog-black .body .leg {
+      position: absolute;
+      display: block;
+      height: 70%;
+      width: 40px;
+      top: 35%;
+      background-color: #282a2a;
+      z-index: 3;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+    }
+    .dog-black .body .leg:first-child {
+      left: -10px;
+      transform: rotate(-10deg);
+    }
+    .dog-black .body .leg:last-child {
+      right: -10px;
+      transform: rotate(10deg);
+    }
+    .dog-black .ears {
+      width: 40%;
+      top: 50%;
+      left: 30%;
+      animation: dog-ears 5400ms 300ms ease infinite;
+    }
+    @keyframes dog-ears {
+      42.3%, 71.6% {
+        transform: rotate(-5deg);
+      }
+      50.3%, 79.6% {
+        transform: rotate(5deg);
+      }
+      5% {
+        transform: rotate(5deg);
+      }
+      12% {
+        transform: rotate(-5%);
+      }
+      from, 33.3%, 66%, to {
+        transform: rotate(0);
+      }
+    }
+    .dog-black .body, .dog-black .torso, .dog-black .face {
+      border-radius: 50%;
+      background: #282a2a;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-black .head {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-black .face {
+      width: 100%;
+      height: 95%;
+      border-radius: 50% / 45% 45% 30% 30%;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-black .ear {
+      position: absolute;
+      z-index: -2;
+      bottom: -10px;
+    }
+    .dog-black .ear:after, .dog-black .ear:before {
+      background: #0f1010;
+    }
+    .dog-black .ear:after {
+      border: 10px solid #282a2a;
+    }
+    .dog-black .ear.ear-6::before, .dog-black .ear.ear-6::after, .dog-black .ear.ear-7::before, .dog-black .ear.ear-7::after, .dog-black .ear.ear-8::before, .dog-black .ear.ear-8::after, .dog-black .ear.ear-9::before, .dog-black .ear.ear-9::after, .dog-black .ear.ear-10::before, .dog-black .ear.ear-10::after {
+      border-color: #0f1010;
+    }
+    .dog .accent-black.accent-1 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 45px;
+      border-radius: 40px;
+      position: absolute;
+      background: #282a2a;
+      top: -15px;
+      left: -10px;
+      z-index: 1;
+      border-left-width: 0;
+      border-bottom-width: 0;
+      border-top-width: 0;
+      transform: rotate(-45deg);
+    }
+    .dog .accent-black.accent-2 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 25px;
+      border-radius: 40px;
+      position: absolute;
+      background: #282a2a;
+      top: -5px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 0;
+    }
+    .dog .accent-black.accent-3 {
+      height: 10px;
+      width: 90%;
+      top: -15px;
+      left: 5%;
+    }
+    .dog .accent-black.accent-3:before, .dog .accent-black.accent-3:after {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 12px;
+      background: #282a2a;
+      z-index: 2;
+      border-radius: 50%/ 60% 60% 30% 30%;
+      position: absolute;
+    }
+    .dog .accent-black.accent-3:before {
+      left: 10%;
+      transform: rotate(20deg);
+    }
+    .dog .accent-black.accent-3:after {
+      right: 10%;
+      transform: rotate(-20deg);
+    }
+    .dog-tan {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+    }
+    .dog-tan:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.03);
+      transform: translateY(-10%) scale(1.5);
+    }
+    .dog-tan * {
+      position: absolute;
+    }
+    .dog-tan .body {
+      top: 50%;
+      animation: dog-body 600ms ease-in-out infinite alternate;
+      width: 100%;
+      height: 100%;
+      box-shadow: inset 0 -15px 0 0 #ca9b50;
+    }
+    .dog-tan .body:before {
+      content: '';
+      position: absolute;
+      bottom: 20%;
+      right: 50%;
+      width: 90%;
+      height: 90%;
+      border-top-left-radius: 100%;
+      border-bottom-left-radius: 10%;
+      border-top-right-radius: 10%;
+      background: rgba(214, 177, 119, 0.4);
+      transform-origin: right bottom;
+      animation: dog-tail-blur 600ms 100ms ease-in-out infinite alternate both;
+    }
+    @keyframes dog-tail-blur {
+      from {
+        transform: rotate(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      to {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+    @keyframes dog-body {
+      from {
+        transform: translateX(-5%);
+      }
+      to {
+        transform: translateX(5%);
+      }
+    }
+    .dog-tan .head {
+      animation: dog-head 5400ms cubic-bezier(0.11, 0.79, 0, 0.99) infinite;
+      z-index: 1;
+    }
+    @keyframes dog-head {
+      from, to {
+        transform: rotate(45deg);
+      }
+      33.3% {
+        transform: rotate(-45deg);
+      }
+      66.6% {
+        transform: rotate(0);
+      }
+    }
+    .dog-tan .torso {
+      top: 40%;
+      animation: dog-torso 600ms ease-in-out infinite alternate-reverse;
+    }
+    @keyframes dog-torso {
+      from {
+        transform: translateX(-2%);
+      }
+      to {
+        transform: translateX(2%);
+      }
+    }
+    .dog-tan .torso #collar {
+      display: block;
+      width: 80%;
+      height: 60%;
+      top: 15%;
+      left: 10%;
+      border-radius: 50%;
+      z-index: 4;
+    }
+    .dog-tan .eyes {
+      width: 70%;
+      top: 45%;
+      left: 15%;
+      z-index: 1;
+    }
+    .dog-tan .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #000;
+      z-index: 1;
+      animation: dog-eye 5400ms infinite;
+    }
+    @keyframes dog-eye {
+      from, to {
+        animation-timing-function: step-end;
+        opacity: 1;
+      }
+      50%, 55% {
+        animation-timing-function: step-start;
+        opacity: 0;
+      }
+    }
+    .dog-tan .eye:before {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 8px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 4px;
+      left: 4px;
+    }
+    .dog-tan .eye:after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 3px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 12px;
+      left: 12px;
+    }
+    .dog-tan .eye:first-child {
+      left: 0;
+    }
+    .dog-tan .eye:last-child {
+      right: 0;
+    }
+    .dog-tan .muzzle {
+      width: 50%;
+      height: 30%;
+      bottom: 5%;
+      left: 24%;
+      border: none;
+      border-radius: 50% / 40% 40% 60% 60%;
+      background: #eedec5;
+      z-index: 1;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-tan .muzzle:before, .dog-tan .muzzle:after {
+      content: '';
+      display: block;
+      position: absolute;
+    }
+    .dog-tan .muzzle:before {
+      width: 6px;
+      height: 20px;
+      bottom: 0;
+      left: calc(50% - 3px);
+      background: #ca9b50;
+    }
+    .dog-tan .muzzle:after {
+      background: black;
+      width: 20px;
+      height: 15px;
+      bottom: 12px;
+      left: calc(50% - 10px);
+      border-bottom-left-radius: 60% 60%;
+      border-bottom-right-radius: 60% 60%;
+      border-top-left-radius: 50% 40%;
+      border-top-right-radius: 50% 40%;
+    }
+    .dog-tan .tongue {
+      width: 25px;
+      height: 30%;
+      left: calc(50% - 18px);
+      bottom: 0;
+      z-index: 0;
+      transform-origin: center bottom;
+      animation: dog-tongue 5400ms -50ms ease-in-out infinite;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    @keyframes dog-tongue {
+      from, to {
+        transform: rotate(0);
+      }
+      16.6666666667% {
+        transform: rotate(30deg);
+      }
+      33.3333333333%, 66.6666666667% {
+        transform: rotate(0);
+      }
+      50%, 83.3333333333% {
+        transform: rotate(-20deg);
+      }
+    }
+    .dog-tan .tongue:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 40px;
+      background: #FD3163;
+      animation: dog-tongue-inner 300ms ease-in-out infinite alternate;
+    }
+    @keyframes dog-tongue-inner {
+      from {
+        transform: translateY(5%);
+      }
+      to {
+        transform: translateY(22%);
+      }
+    }
+    .dog-tan .body .leg {
+      position: absolute;
+      display: block;
+      height: 70%;
+      width: 40px;
+      top: 35%;
+      background-color: #D6B177;
+      z-index: 3;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+    }
+    .dog-tan .body .leg:first-child {
+      left: -10px;
+      transform: rotate(-10deg);
+    }
+    .dog-tan .body .leg:last-child {
+      right: -10px;
+      transform: rotate(10deg);
+    }
+    .dog-tan .ears {
+      width: 40%;
+      top: 50%;
+      left: 30%;
+      animation: dog-ears 5400ms 300ms ease infinite;
+    }
+    @keyframes dog-ears {
+      42.3%, 71.6% {
+        transform: rotate(-5deg);
+      }
+      50.3%, 79.6% {
+        transform: rotate(5deg);
+      }
+      5% {
+        transform: rotate(5deg);
+      }
+      12% {
+        transform: rotate(-5%);
+      }
+      from, 33.3%, 66%, to {
+        transform: rotate(0);
+      }
+    }
+    .dog-tan .body, .dog-tan .torso, .dog-tan .face {
+      border-radius: 50%;
+      background: #D6B177;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-tan .head {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-tan .face {
+      width: 100%;
+      height: 95%;
+      border-radius: 50% / 45% 45% 30% 30%;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-tan .ear {
+      position: absolute;
+      z-index: -2;
+      bottom: -10px;
+    }
+    .dog-tan .ear:after, .dog-tan .ear:before {
+      background: #ca9b50;
+    }
+    .dog-tan .ear:after {
+      border: 10px solid #D6B177;
+    }
+    .dog-tan .ear.ear-6::before, .dog-tan .ear.ear-6::after, .dog-tan .ear.ear-7::before, .dog-tan .ear.ear-7::after, .dog-tan .ear.ear-8::before, .dog-tan .ear.ear-8::after, .dog-tan .ear.ear-9::before, .dog-tan .ear.ear-9::after, .dog-tan .ear.ear-10::before, .dog-tan .ear.ear-10::after {
+      border-color: #ca9b50;
+    }
+    .dog .accent-tan.accent-1 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 45px;
+      border-radius: 40px;
+      position: absolute;
+      background: #D6B177;
+      top: -15px;
+      left: -10px;
+      z-index: 1;
+      border-left-width: 0;
+      border-bottom-width: 0;
+      border-top-width: 0;
+      transform: rotate(-45deg);
+    }
+    .dog .accent-tan.accent-2 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 25px;
+      border-radius: 40px;
+      position: absolute;
+      background: #D6B177;
+      top: -5px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 0;
+    }
+    .dog .accent-tan.accent-3 {
+      height: 10px;
+      width: 90%;
+      top: -15px;
+      left: 5%;
+    }
+    .dog .accent-tan.accent-3:before, .dog .accent-tan.accent-3:after {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 12px;
+      background: #D6B177;
+      z-index: 2;
+      border-radius: 50%/ 60% 60% 30% 30%;
+      position: absolute;
+    }
+    .dog .accent-tan.accent-3:before {
+      left: 10%;
+      transform: rotate(20deg);
+    }
+    .dog .accent-tan.accent-3:after {
+      right: 10%;
+      transform: rotate(-20deg);
+    }
+    .dog-brown {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+    }
+    .dog-brown:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.03);
+      transform: translateY(-10%) scale(1.5);
+    }
+    .dog-brown * {
+      position: absolute;
+    }
+    .dog-brown .body {
+      top: 50%;
+      animation: dog-body 600ms ease-in-out infinite alternate;
+      width: 100%;
+      height: 100%;
+      box-shadow: inset 0 -15px 0 0 #5c441d;
+    }
+    .dog-brown .body:before {
+      content: '';
+      position: absolute;
+      bottom: 20%;
+      right: 50%;
+      width: 90%;
+      height: 90%;
+      border-top-left-radius: 100%;
+      border-bottom-left-radius: 10%;
+      border-top-right-radius: 10%;
+      background: rgba(131, 96, 41, 0.4);
+      transform-origin: right bottom;
+      animation: dog-tail-blur 600ms 100ms ease-in-out infinite alternate both;
+    }
+    @keyframes dog-tail-blur {
+      from {
+        transform: rotate(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      to {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+    @keyframes dog-body {
+      from {
+        transform: translateX(-5%);
+      }
+      to {
+        transform: translateX(5%);
+      }
+    }
+    .dog-brown .head {
+      animation: dog-head 5400ms cubic-bezier(0.11, 0.79, 0, 0.99) infinite;
+      z-index: 1;
+    }
+    @keyframes dog-head {
+      from, to {
+        transform: rotate(45deg);
+      }
+      33.3% {
+        transform: rotate(-45deg);
+      }
+      66.6% {
+        transform: rotate(0);
+      }
+    }
+    .dog-brown .torso {
+      top: 40%;
+      animation: dog-torso 600ms ease-in-out infinite alternate-reverse;
+    }
+    @keyframes dog-torso {
+      from {
+        transform: translateX(-2%);
+      }
+      to {
+        transform: translateX(2%);
+      }
+    }
+    .dog-brown .torso #collar {
+      display: block;
+      width: 80%;
+      height: 60%;
+      top: 15%;
+      left: 10%;
+      border-radius: 50%;
+      z-index: 4;
+    }
+    .dog-brown .eyes {
+      width: 70%;
+      top: 45%;
+      left: 15%;
+      z-index: 1;
+    }
+    .dog-brown .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #000;
+      z-index: 1;
+      animation: dog-eye 5400ms infinite;
+    }
+    @keyframes dog-eye {
+      from, to {
+        animation-timing-function: step-end;
+        opacity: 1;
+      }
+      50%, 55% {
+        animation-timing-function: step-start;
+        opacity: 0;
+      }
+    }
+    .dog-brown .eye:before {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 8px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 4px;
+      left: 4px;
+    }
+    .dog-brown .eye:after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 3px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 12px;
+      left: 12px;
+    }
+    .dog-brown .eye:first-child {
+      left: 0;
+    }
+    .dog-brown .eye:last-child {
+      right: 0;
+    }
+    .dog-brown .muzzle {
+      width: 50%;
+      height: 30%;
+      bottom: 5%;
+      left: 24%;
+      border: none;
+      border-radius: 50% / 40% 40% 60% 60%;
+      background: #c7974b;
+      z-index: 1;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-brown .muzzle:before, .dog-brown .muzzle:after {
+      content: '';
+      display: block;
+      position: absolute;
+    }
+    .dog-brown .muzzle:before {
+      width: 6px;
+      height: 20px;
+      bottom: 0;
+      left: calc(50% - 3px);
+      background: #5c441d;
+    }
+    .dog-brown .muzzle:after {
+      background: black;
+      width: 20px;
+      height: 15px;
+      bottom: 12px;
+      left: calc(50% - 10px);
+      border-bottom-left-radius: 60% 60%;
+      border-bottom-right-radius: 60% 60%;
+      border-top-left-radius: 50% 40%;
+      border-top-right-radius: 50% 40%;
+    }
+    .dog-brown .tongue {
+      width: 25px;
+      height: 30%;
+      left: calc(50% - 18px);
+      bottom: 0;
+      z-index: 0;
+      transform-origin: center bottom;
+      animation: dog-tongue 5400ms -50ms ease-in-out infinite;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    @keyframes dog-tongue {
+      from, to {
+        transform: rotate(0);
+      }
+      16.6666666667% {
+        transform: rotate(30deg);
+      }
+      33.3333333333%, 66.6666666667% {
+        transform: rotate(0);
+      }
+      50%, 83.3333333333% {
+        transform: rotate(-20deg);
+      }
+    }
+    .dog-brown .tongue:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 40px;
+      background: #FD3163;
+      animation: dog-tongue-inner 300ms ease-in-out infinite alternate;
+    }
+    @keyframes dog-tongue-inner {
+      from {
+        transform: translateY(5%);
+      }
+      to {
+        transform: translateY(22%);
+      }
+    }
+    .dog-brown .body .leg {
+      position: absolute;
+      display: block;
+      height: 70%;
+      width: 40px;
+      top: 35%;
+      background-color: #836029;
+      z-index: 3;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+    }
+    .dog-brown .body .leg:first-child {
+      left: -10px;
+      transform: rotate(-10deg);
+    }
+    .dog-brown .body .leg:last-child {
+      right: -10px;
+      transform: rotate(10deg);
+    }
+    .dog-brown .ears {
+      width: 40%;
+      top: 50%;
+      left: 30%;
+      animation: dog-ears 5400ms 300ms ease infinite;
+    }
+    @keyframes dog-ears {
+      42.3%, 71.6% {
+        transform: rotate(-5deg);
+      }
+      50.3%, 79.6% {
+        transform: rotate(5deg);
+      }
+      5% {
+        transform: rotate(5deg);
+      }
+      12% {
+        transform: rotate(-5%);
+      }
+      from, 33.3%, 66%, to {
+        transform: rotate(0);
+      }
+    }
+    .dog-brown .body, .dog-brown .torso, .dog-brown .face {
+      border-radius: 50%;
+      background: #836029;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-brown .head {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-brown .face {
+      width: 100%;
+      height: 95%;
+      border-radius: 50% / 45% 45% 30% 30%;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-brown .ear {
+      position: absolute;
+      z-index: -2;
+      bottom: -10px;
+    }
+    .dog-brown .ear:after, .dog-brown .ear:before {
+      background: #5c441d;
+    }
+    .dog-brown .ear:after {
+      border: 10px solid #836029;
+    }
+    .dog-brown .ear.ear-6::before, .dog-brown .ear.ear-6::after, .dog-brown .ear.ear-7::before, .dog-brown .ear.ear-7::after, .dog-brown .ear.ear-8::before, .dog-brown .ear.ear-8::after, .dog-brown .ear.ear-9::before, .dog-brown .ear.ear-9::after, .dog-brown .ear.ear-10::before, .dog-brown .ear.ear-10::after {
+      border-color: #5c441d;
+    }
+    .dog .accent-brown.accent-1 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 45px;
+      border-radius: 40px;
+      position: absolute;
+      background: #836029;
+      top: -15px;
+      left: -10px;
+      z-index: 1;
+      border-left-width: 0;
+      border-bottom-width: 0;
+      border-top-width: 0;
+      transform: rotate(-45deg);
+    }
+    .dog .accent-brown.accent-2 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 25px;
+      border-radius: 40px;
+      position: absolute;
+      background: #836029;
+      top: -5px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 0;
+    }
+    .dog .accent-brown.accent-3 {
+      height: 10px;
+      width: 90%;
+      top: -15px;
+      left: 5%;
+    }
+    .dog .accent-brown.accent-3:before, .dog .accent-brown.accent-3:after {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 12px;
+      background: #836029;
+      z-index: 2;
+      border-radius: 50%/ 60% 60% 30% 30%;
+      position: absolute;
+    }
+    .dog .accent-brown.accent-3:before {
+      left: 10%;
+      transform: rotate(20deg);
+    }
+    .dog .accent-brown.accent-3:after {
+      right: 10%;
+      transform: rotate(-20deg);
+    }
+    .dog-golden {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+    }
+    .dog-golden:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.03);
+      transform: translateY(-10%) scale(1.5);
+    }
+    .dog-golden * {
+      position: absolute;
+    }
+    .dog-golden .body {
+      top: 50%;
+      animation: dog-body 600ms ease-in-out infinite alternate;
+      width: 100%;
+      height: 100%;
+      box-shadow: inset 0 -15px 0 0 #a68419;
+    }
+    .dog-golden .body:before {
+      content: '';
+      position: absolute;
+      bottom: 20%;
+      right: 50%;
+      width: 90%;
+      height: 90%;
+      border-top-left-radius: 100%;
+      border-bottom-left-radius: 10%;
+      border-top-right-radius: 10%;
+      background: rgba(210, 167, 32, 0.4);
+      transform-origin: right bottom;
+      animation: dog-tail-blur 600ms 100ms ease-in-out infinite alternate both;
+    }
+    @keyframes dog-tail-blur {
+      from {
+        transform: rotate(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      to {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+    @keyframes dog-body {
+      from {
+        transform: translateX(-5%);
+      }
+      to {
+        transform: translateX(5%);
+      }
+    }
+    .dog-golden .head {
+      animation: dog-head 5400ms cubic-bezier(0.11, 0.79, 0, 0.99) infinite;
+      z-index: 1;
+    }
+    @keyframes dog-head {
+      from, to {
+        transform: rotate(45deg);
+      }
+      33.3% {
+        transform: rotate(-45deg);
+      }
+      66.6% {
+        transform: rotate(0);
+      }
+    }
+    .dog-golden .torso {
+      top: 40%;
+      animation: dog-torso 600ms ease-in-out infinite alternate-reverse;
+    }
+    @keyframes dog-torso {
+      from {
+        transform: translateX(-2%);
+      }
+      to {
+        transform: translateX(2%);
+      }
+    }
+    .dog-golden .torso #collar {
+      display: block;
+      width: 80%;
+      height: 60%;
+      top: 15%;
+      left: 10%;
+      border-radius: 50%;
+      z-index: 4;
+    }
+    .dog-golden .eyes {
+      width: 70%;
+      top: 45%;
+      left: 15%;
+      z-index: 1;
+    }
+    .dog-golden .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #000;
+      z-index: 1;
+      animation: dog-eye 5400ms infinite;
+    }
+    @keyframes dog-eye {
+      from, to {
+        animation-timing-function: step-end;
+        opacity: 1;
+      }
+      50%, 55% {
+        animation-timing-function: step-start;
+        opacity: 0;
+      }
+    }
+    .dog-golden .eye:before {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 8px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 4px;
+      left: 4px;
+    }
+    .dog-golden .eye:after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 3px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 12px;
+      left: 12px;
+    }
+    .dog-golden .eye:first-child {
+      left: 0;
+    }
+    .dog-golden .eye:last-child {
+      right: 0;
+    }
+    .dog-golden .muzzle {
+      width: 50%;
+      height: 30%;
+      bottom: 5%;
+      left: 24%;
+      border: none;
+      border-radius: 50% / 40% 40% 60% 60%;
+      background: #e9cc6f;
+      z-index: 1;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-golden .muzzle:before, .dog-golden .muzzle:after {
+      content: '';
+      display: block;
+      position: absolute;
+    }
+    .dog-golden .muzzle:before {
+      width: 6px;
+      height: 20px;
+      bottom: 0;
+      left: calc(50% - 3px);
+      background: #a68419;
+    }
+    .dog-golden .muzzle:after {
+      background: black;
+      width: 20px;
+      height: 15px;
+      bottom: 12px;
+      left: calc(50% - 10px);
+      border-bottom-left-radius: 60% 60%;
+      border-bottom-right-radius: 60% 60%;
+      border-top-left-radius: 50% 40%;
+      border-top-right-radius: 50% 40%;
+    }
+    .dog-golden .tongue {
+      width: 25px;
+      height: 30%;
+      left: calc(50% - 18px);
+      bottom: 0;
+      z-index: 0;
+      transform-origin: center bottom;
+      animation: dog-tongue 5400ms -50ms ease-in-out infinite;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    @keyframes dog-tongue {
+      from, to {
+        transform: rotate(0);
+      }
+      16.6666666667% {
+        transform: rotate(30deg);
+      }
+      33.3333333333%, 66.6666666667% {
+        transform: rotate(0);
+      }
+      50%, 83.3333333333% {
+        transform: rotate(-20deg);
+      }
+    }
+    .dog-golden .tongue:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 40px;
+      background: #FD3163;
+      animation: dog-tongue-inner 300ms ease-in-out infinite alternate;
+    }
+    @keyframes dog-tongue-inner {
+      from {
+        transform: translateY(5%);
+      }
+      to {
+        transform: translateY(22%);
+      }
+    }
+    .dog-golden .body .leg {
+      position: absolute;
+      display: block;
+      height: 70%;
+      width: 40px;
+      top: 35%;
+      background-color: #D2A720;
+      z-index: 3;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+    }
+    .dog-golden .body .leg:first-child {
+      left: -10px;
+      transform: rotate(-10deg);
+    }
+    .dog-golden .body .leg:last-child {
+      right: -10px;
+      transform: rotate(10deg);
+    }
+    .dog-golden .ears {
+      width: 40%;
+      top: 50%;
+      left: 30%;
+      animation: dog-ears 5400ms 300ms ease infinite;
+    }
+    @keyframes dog-ears {
+      42.3%, 71.6% {
+        transform: rotate(-5deg);
+      }
+      50.3%, 79.6% {
+        transform: rotate(5deg);
+      }
+      5% {
+        transform: rotate(5deg);
+      }
+      12% {
+        transform: rotate(-5%);
+      }
+      from, 33.3%, 66%, to {
+        transform: rotate(0);
+      }
+    }
+    .dog-golden .body, .dog-golden .torso, .dog-golden .face {
+      border-radius: 50%;
+      background: #D2A720;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-golden .head {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-golden .face {
+      width: 100%;
+      height: 95%;
+      border-radius: 50% / 45% 45% 30% 30%;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-golden .ear {
+      position: absolute;
+      z-index: -2;
+      bottom: -10px;
+    }
+    .dog-golden .ear:after, .dog-golden .ear:before {
+      background: #a68419;
+    }
+    .dog-golden .ear:after {
+      border: 10px solid #D2A720;
+    }
+    .dog-golden .ear.ear-6::before, .dog-golden .ear.ear-6::after, .dog-golden .ear.ear-7::before, .dog-golden .ear.ear-7::after, .dog-golden .ear.ear-8::before, .dog-golden .ear.ear-8::after, .dog-golden .ear.ear-9::before, .dog-golden .ear.ear-9::after, .dog-golden .ear.ear-10::before, .dog-golden .ear.ear-10::after {
+      border-color: #a68419;
+    }
+    .dog .accent-golden.accent-1 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 45px;
+      border-radius: 40px;
+      position: absolute;
+      background: #D2A720;
+      top: -15px;
+      left: -10px;
+      z-index: 1;
+      border-left-width: 0;
+      border-bottom-width: 0;
+      border-top-width: 0;
+      transform: rotate(-45deg);
+    }
+    .dog .accent-golden.accent-2 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 25px;
+      border-radius: 40px;
+      position: absolute;
+      background: #D2A720;
+      top: -5px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 0;
+    }
+    .dog .accent-golden.accent-3 {
+      height: 10px;
+      width: 90%;
+      top: -15px;
+      left: 5%;
+    }
+    .dog .accent-golden.accent-3:before, .dog .accent-golden.accent-3:after {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 12px;
+      background: #D2A720;
+      z-index: 2;
+      border-radius: 50%/ 60% 60% 30% 30%;
+      position: absolute;
+    }
+    .dog .accent-golden.accent-3:before {
+      left: 10%;
+      transform: rotate(20deg);
+    }
+    .dog .accent-golden.accent-3:after {
+      right: 10%;
+      transform: rotate(-20deg);
+    }
+    .dog-darkGray {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+    }
+    .dog-darkGray:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.03);
+      transform: translateY(-10%) scale(1.5);
+    }
+    .dog-darkGray * {
+      position: absolute;
+    }
+    .dog-darkGray .body {
+      top: 50%;
+      animation: dog-body 600ms ease-in-out infinite alternate;
+      width: 100%;
+      height: 100%;
+      box-shadow: inset 0 -15px 0 0 #484743;
+    }
+    .dog-darkGray .body:before {
+      content: '';
+      position: absolute;
+      bottom: 20%;
+      right: 50%;
+      width: 90%;
+      height: 90%;
+      border-top-left-radius: 100%;
+      border-bottom-left-radius: 10%;
+      border-top-right-radius: 10%;
+      background: rgba(99, 97, 91, 0.4);
+      transform-origin: right bottom;
+      animation: dog-tail-blur 600ms 100ms ease-in-out infinite alternate both;
+    }
+    @keyframes dog-tail-blur {
+      from {
+        transform: rotate(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      to {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+    @keyframes dog-body {
+      from {
+        transform: translateX(-5%);
+      }
+      to {
+        transform: translateX(5%);
+      }
+    }
+    .dog-darkGray .head {
+      animation: dog-head 5400ms cubic-bezier(0.11, 0.79, 0, 0.99) infinite;
+      z-index: 1;
+    }
+    @keyframes dog-head {
+      from, to {
+        transform: rotate(45deg);
+      }
+      33.3% {
+        transform: rotate(-45deg);
+      }
+      66.6% {
+        transform: rotate(0);
+      }
+    }
+    .dog-darkGray .torso {
+      top: 40%;
+      animation: dog-torso 600ms ease-in-out infinite alternate-reverse;
+    }
+    @keyframes dog-torso {
+      from {
+        transform: translateX(-2%);
+      }
+      to {
+        transform: translateX(2%);
+      }
+    }
+    .dog-darkGray .torso #collar {
+      display: block;
+      width: 80%;
+      height: 60%;
+      top: 15%;
+      left: 10%;
+      border-radius: 50%;
+      z-index: 4;
+    }
+    .dog-darkGray .eyes {
+      width: 70%;
+      top: 45%;
+      left: 15%;
+      z-index: 1;
+    }
+    .dog-darkGray .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #000;
+      z-index: 1;
+      animation: dog-eye 5400ms infinite;
+    }
+    @keyframes dog-eye {
+      from, to {
+        animation-timing-function: step-end;
+        opacity: 1;
+      }
+      50%, 55% {
+        animation-timing-function: step-start;
+        opacity: 0;
+      }
+    }
+    .dog-darkGray .eye:before {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 8px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 4px;
+      left: 4px;
+    }
+    .dog-darkGray .eye:after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 3px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 12px;
+      left: 12px;
+    }
+    .dog-darkGray .eye:first-child {
+      left: 0;
+    }
+    .dog-darkGray .eye:last-child {
+      right: 0;
+    }
+    .dog-darkGray .muzzle {
+      width: 50%;
+      height: 30%;
+      bottom: 5%;
+      left: 24%;
+      border: none;
+      border-radius: 50% / 40% 40% 60% 60%;
+      background: #97948d;
+      z-index: 1;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-darkGray .muzzle:before, .dog-darkGray .muzzle:after {
+      content: '';
+      display: block;
+      position: absolute;
+    }
+    .dog-darkGray .muzzle:before {
+      width: 6px;
+      height: 20px;
+      bottom: 0;
+      left: calc(50% - 3px);
+      background: #484743;
+    }
+    .dog-darkGray .muzzle:after {
+      background: black;
+      width: 20px;
+      height: 15px;
+      bottom: 12px;
+      left: calc(50% - 10px);
+      border-bottom-left-radius: 60% 60%;
+      border-bottom-right-radius: 60% 60%;
+      border-top-left-radius: 50% 40%;
+      border-top-right-radius: 50% 40%;
+    }
+    .dog-darkGray .tongue {
+      width: 25px;
+      height: 30%;
+      left: calc(50% - 18px);
+      bottom: 0;
+      z-index: 0;
+      transform-origin: center bottom;
+      animation: dog-tongue 5400ms -50ms ease-in-out infinite;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    @keyframes dog-tongue {
+      from, to {
+        transform: rotate(0);
+      }
+      16.6666666667% {
+        transform: rotate(30deg);
+      }
+      33.3333333333%, 66.6666666667% {
+        transform: rotate(0);
+      }
+      50%, 83.3333333333% {
+        transform: rotate(-20deg);
+      }
+    }
+    .dog-darkGray .tongue:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 40px;
+      background: #FD3163;
+      animation: dog-tongue-inner 300ms ease-in-out infinite alternate;
+    }
+    @keyframes dog-tongue-inner {
+      from {
+        transform: translateY(5%);
+      }
+      to {
+        transform: translateY(22%);
+      }
+    }
+    .dog-darkGray .body .leg {
+      position: absolute;
+      display: block;
+      height: 70%;
+      width: 40px;
+      top: 35%;
+      background-color: #63615B;
+      z-index: 3;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+    }
+    .dog-darkGray .body .leg:first-child {
+      left: -10px;
+      transform: rotate(-10deg);
+    }
+    .dog-darkGray .body .leg:last-child {
+      right: -10px;
+      transform: rotate(10deg);
+    }
+    .dog-darkGray .ears {
+      width: 40%;
+      top: 50%;
+      left: 30%;
+      animation: dog-ears 5400ms 300ms ease infinite;
+    }
+    @keyframes dog-ears {
+      42.3%, 71.6% {
+        transform: rotate(-5deg);
+      }
+      50.3%, 79.6% {
+        transform: rotate(5deg);
+      }
+      5% {
+        transform: rotate(5deg);
+      }
+      12% {
+        transform: rotate(-5%);
+      }
+      from, 33.3%, 66%, to {
+        transform: rotate(0);
+      }
+    }
+    .dog-darkGray .body, .dog-darkGray .torso, .dog-darkGray .face {
+      border-radius: 50%;
+      background: #63615B;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-darkGray .head {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-darkGray .face {
+      width: 100%;
+      height: 95%;
+      border-radius: 50% / 45% 45% 30% 30%;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-darkGray .ear {
+      position: absolute;
+      z-index: -2;
+      bottom: -10px;
+    }
+    .dog-darkGray .ear:after, .dog-darkGray .ear:before {
+      background: #484743;
+    }
+    .dog-darkGray .ear:after {
+      border: 10px solid #63615B;
+    }
+    .dog-darkGray .ear.ear-6::before, .dog-darkGray .ear.ear-6::after, .dog-darkGray .ear.ear-7::before, .dog-darkGray .ear.ear-7::after, .dog-darkGray .ear.ear-8::before, .dog-darkGray .ear.ear-8::after, .dog-darkGray .ear.ear-9::before, .dog-darkGray .ear.ear-9::after, .dog-darkGray .ear.ear-10::before, .dog-darkGray .ear.ear-10::after {
+      border-color: #484743;
+    }
+    .dog .accent-darkGray.accent-1 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 45px;
+      border-radius: 40px;
+      position: absolute;
+      background: #63615B;
+      top: -15px;
+      left: -10px;
+      z-index: 1;
+      border-left-width: 0;
+      border-bottom-width: 0;
+      border-top-width: 0;
+      transform: rotate(-45deg);
+    }
+    .dog .accent-darkGray.accent-2 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 25px;
+      border-radius: 40px;
+      position: absolute;
+      background: #63615B;
+      top: -5px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 0;
+    }
+    .dog .accent-darkGray.accent-3 {
+      height: 10px;
+      width: 90%;
+      top: -15px;
+      left: 5%;
+    }
+    .dog .accent-darkGray.accent-3:before, .dog .accent-darkGray.accent-3:after {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 12px;
+      background: #63615B;
+      z-index: 2;
+      border-radius: 50%/ 60% 60% 30% 30%;
+      position: absolute;
+    }
+    .dog .accent-darkGray.accent-3:before {
+      left: 10%;
+      transform: rotate(20deg);
+    }
+    .dog .accent-darkGray.accent-3:after {
+      right: 10%;
+      transform: rotate(-20deg);
+    }
+    .dog-lightGray {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+    }
+    .dog-lightGray:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.03);
+      transform: translateY(-10%) scale(1.5);
+    }
+    .dog-lightGray * {
+      position: absolute;
+    }
+    .dog-lightGray .body {
+      top: 50%;
+      animation: dog-body 600ms ease-in-out infinite alternate;
+      width: 100%;
+      height: 100%;
+      box-shadow: inset 0 -15px 0 0 #b1afaf;
+    }
+    .dog-lightGray .body:before {
+      content: '';
+      position: absolute;
+      bottom: 20%;
+      right: 50%;
+      width: 90%;
+      height: 90%;
+      border-top-left-radius: 100%;
+      border-bottom-left-radius: 10%;
+      border-top-right-radius: 10%;
+      background: rgba(202, 201, 201, 0.4);
+      transform-origin: right bottom;
+      animation: dog-tail-blur 600ms 100ms ease-in-out infinite alternate both;
+    }
+    @keyframes dog-tail-blur {
+      from {
+        transform: rotate(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      to {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+    @keyframes dog-body {
+      from {
+        transform: translateX(-5%);
+      }
+      to {
+        transform: translateX(5%);
+      }
+    }
+    .dog-lightGray .head {
+      animation: dog-head 5400ms cubic-bezier(0.11, 0.79, 0, 0.99) infinite;
+      z-index: 1;
+    }
+    @keyframes dog-head {
+      from, to {
+        transform: rotate(45deg);
+      }
+      33.3% {
+        transform: rotate(-45deg);
+      }
+      66.6% {
+        transform: rotate(0);
+      }
+    }
+    .dog-lightGray .torso {
+      top: 40%;
+      animation: dog-torso 600ms ease-in-out infinite alternate-reverse;
+    }
+    @keyframes dog-torso {
+      from {
+        transform: translateX(-2%);
+      }
+      to {
+        transform: translateX(2%);
+      }
+    }
+    .dog-lightGray .torso #collar {
+      display: block;
+      width: 80%;
+      height: 60%;
+      top: 15%;
+      left: 10%;
+      border-radius: 50%;
+      z-index: 4;
+    }
+    .dog-lightGray .eyes {
+      width: 70%;
+      top: 45%;
+      left: 15%;
+      z-index: 1;
+    }
+    .dog-lightGray .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #000;
+      z-index: 1;
+      animation: dog-eye 5400ms infinite;
+    }
+    @keyframes dog-eye {
+      from, to {
+        animation-timing-function: step-end;
+        opacity: 1;
+      }
+      50%, 55% {
+        animation-timing-function: step-start;
+        opacity: 0;
+      }
+    }
+    .dog-lightGray .eye:before {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 8px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 4px;
+      left: 4px;
+    }
+    .dog-lightGray .eye:after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 3px;
+      border-radius: 20px;
+      position: absolute;
+      background: white;
+      z-index: 3;
+      top: 12px;
+      left: 12px;
+    }
+    .dog-lightGray .eye:first-child {
+      left: 0;
+    }
+    .dog-lightGray .eye:last-child {
+      right: 0;
+    }
+    .dog-lightGray .muzzle {
+      width: 50%;
+      height: 30%;
+      bottom: 5%;
+      left: 24%;
+      border: none;
+      border-radius: 50% / 40% 40% 60% 60%;
+      background: #fdfcfc;
+      z-index: 1;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-lightGray .muzzle:before, .dog-lightGray .muzzle:after {
+      content: '';
+      display: block;
+      position: absolute;
+    }
+    .dog-lightGray .muzzle:before {
+      width: 6px;
+      height: 20px;
+      bottom: 0;
+      left: calc(50% - 3px);
+      background: #b1afaf;
+    }
+    .dog-lightGray .muzzle:after {
+      background: black;
+      width: 20px;
+      height: 15px;
+      bottom: 12px;
+      left: calc(50% - 10px);
+      border-bottom-left-radius: 60% 60%;
+      border-bottom-right-radius: 60% 60%;
+      border-top-left-radius: 50% 40%;
+      border-top-right-radius: 50% 40%;
+    }
+    .dog-lightGray .tongue {
+      width: 25px;
+      height: 30%;
+      left: calc(50% - 18px);
+      bottom: 0;
+      z-index: 0;
+      transform-origin: center bottom;
+      animation: dog-tongue 5400ms -50ms ease-in-out infinite;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    @keyframes dog-tongue {
+      from, to {
+        transform: rotate(0);
+      }
+      16.6666666667% {
+        transform: rotate(30deg);
+      }
+      33.3333333333%, 66.6666666667% {
+        transform: rotate(0);
+      }
+      50%, 83.3333333333% {
+        transform: rotate(-20deg);
+      }
+    }
+    .dog-lightGray .tongue:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 40px;
+      background: #FD3163;
+      animation: dog-tongue-inner 300ms ease-in-out infinite alternate;
+    }
+    @keyframes dog-tongue-inner {
+      from {
+        transform: translateY(5%);
+      }
+      to {
+        transform: translateY(22%);
+      }
+    }
+    .dog-lightGray .body .leg {
+      position: absolute;
+      display: block;
+      height: 70%;
+      width: 40px;
+      top: 35%;
+      background-color: #CAC9C9;
+      z-index: 3;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+    }
+    .dog-lightGray .body .leg:first-child {
+      left: -10px;
+      transform: rotate(-10deg);
+    }
+    .dog-lightGray .body .leg:last-child {
+      right: -10px;
+      transform: rotate(10deg);
+    }
+    .dog-lightGray .ears {
+      width: 40%;
+      top: 50%;
+      left: 30%;
+      animation: dog-ears 5400ms 300ms ease infinite;
+    }
+    @keyframes dog-ears {
+      42.3%, 71.6% {
+        transform: rotate(-5deg);
+      }
+      50.3%, 79.6% {
+        transform: rotate(5deg);
+      }
+      5% {
+        transform: rotate(5deg);
+      }
+      12% {
+        transform: rotate(-5%);
+      }
+      from, 33.3%, 66%, to {
+        transform: rotate(0);
+      }
+    }
+    .dog-lightGray .body, .dog-lightGray .torso, .dog-lightGray .face {
+      border-radius: 50%;
+      background: #CAC9C9;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-lightGray .head {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    .dog-lightGray .face {
+      width: 100%;
+      height: 95%;
+      border-radius: 50% / 45% 45% 30% 30%;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+    .dog-lightGray .ear {
+      position: absolute;
+      z-index: -2;
+      bottom: -10px;
+    }
+    .dog-lightGray .ear:after, .dog-lightGray .ear:before {
+      background: #b1afaf;
+    }
+    .dog-lightGray .ear:after {
+      border: 10px solid #CAC9C9;
+    }
+    .dog-lightGray .ear.ear-6::before, .dog-lightGray .ear.ear-6::after, .dog-lightGray .ear.ear-7::before, .dog-lightGray .ear.ear-7::after, .dog-lightGray .ear.ear-8::before, .dog-lightGray .ear.ear-8::after, .dog-lightGray .ear.ear-9::before, .dog-lightGray .ear.ear-9::after, .dog-lightGray .ear.ear-10::before, .dog-lightGray .ear.ear-10::after {
+      border-color: #b1afaf;
+    }
+    .dog .accent-lightGray.accent-1 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 45px;
+      border-radius: 40px;
+      position: absolute;
+      background: #CAC9C9;
+      top: -15px;
+      left: -10px;
+      z-index: 1;
+      border-left-width: 0;
+      border-bottom-width: 0;
+      border-top-width: 0;
+      transform: rotate(-45deg);
+    }
+    .dog .accent-lightGray.accent-2 {
+      content: '';
+      display: block;
+      height: 45px;
+      width: 25px;
+      border-radius: 40px;
+      position: absolute;
+      background: #CAC9C9;
+      top: -5px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 0;
+    }
+    .dog .accent-lightGray.accent-3 {
+      height: 10px;
+      width: 90%;
+      top: -15px;
+      left: 5%;
+    }
+    .dog .accent-lightGray.accent-3:before, .dog .accent-lightGray.accent-3:after {
+      content: '';
+      display: block;
+      height: 8px;
+      width: 12px;
+      background: #CAC9C9;
+      z-index: 2;
+      border-radius: 50%/ 60% 60% 30% 30%;
+      position: absolute;
+    }
+    .dog .accent-lightGray.accent-3:before {
+      left: 10%;
+      transform: rotate(20deg);
+    }
+    .dog .accent-lightGray.accent-3:after {
+      right: 10%;
+      transform: rotate(-20deg);
+    }
+  </style>
+</head>
+<body>
+  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 1331 1024" fill="#3376CC">
+    <path d="M43 1127.5q0 11.5 8.25 19t18.25 7.5q11.5 0 19.25-7.75t7.75-18.75v-442.5q0-51 25.5-93 24.5-43 67.5-68.25t93-25.25q51 0 94.5 25 43 25.5 68 68.5t25 93v442.5q0 11.5 7.75 19t18.75 7.5q11.5 0 19.25-7.75t7.75-18.75v-442.5q0-51 25.5-93 24.5-43 67.5-68.25t93-25.25q51 0 94.5 25 42 25.5 67 69t25 92.5v442.5q0 11.5 8.25 19t19.25 7.5q11.5 0 19.25-7.75t7.75-18.75v-442.5q0-65.5-32-120-33-55.5-88.75-87.5t-120.25-32q-67.5 0-124.75 35.25t-88.25 94.75q-30.5-59.5-88.5-94.75t-125.5-35.25q-54.5 0-103 23.5t-83 65.5v-70.5q0-11.5-7.75-19.75t-19.25-8.25-19 8.25-7.5 19.75v663.5zM817 247q0 36 14.5 67t38 54.5q13.5 11.5 22.5 17.5l150.5 121q6 6 16.5 6 11.5 0 18-7l144.5-133.5q7-6 19.5-19 20.5-20.5 33.75-51.75t13.25-68.25q0-10-3-28.5-4-21-11-31-11.5-26.5-41.75-47t-78.25-20.5q-43 0-102.5 39-54.5-33-105.5-34-36 0-62.5 15.5t-43 39q-12.5 16.5-13 26.5-9 24.5-10.5 54.5z"></path>
+  </svg>
+  <h3>Uh oh! Match is experiencing some technical issues at the moment!</h3>
+  <h4>We don't want you to be lonely, so here are some puppies to keep you company while we're down!</h4>
+  <div id="card">
+    <div id="frame">
+      <div id="overlay"></div>
+      <div class="dog">
+        <div class="body">
+          <div class="leg"></div>
+          <div class="leg"></div>
+        </div>
+        <div class="torso">
+          <div id="collar"></div>
+          <div class="leg"></div>
+          <div class="leg"></div>
+        </div>
+        <div class="head">
+          <div class="ears">
+            <div class="ear"></div>
+          </div>
+          <div class="face">
+            <div class="eyes">
+              <div class="eye"></div>
+              <div class="eye"></div>
+            </div>
+            <div class="muzzle"></div>
+            <div class="tongue"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="button-container">
+      <button class="button button-fetch" onclick="{likeDog()}">fetch!</button>
+      <button class="button button-pet" onclick="{likeDog()}">pet!</button>
+    </div>
+  </div>
+  <script>
+    const dogColors = [
+      'white',
+      'tan',
+      'brown',
+      'black',
+      'golden',
+      'lightGray',
+      'darkGray'
+    ];
+
+    function getRandomInRange(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      return Math.floor(Math.random() * (max - min + 1)) + min; 
+    }
+
+    function getColor({ minHue = 0, maxHue = 360, minSaturation = 0, maxSaturation = 100, minLightness = 0, maxLightness = 100}) {  
+      var color = "hsl(" + getRandomInRange(minHue, maxHue) + ","+ getRandomInRange(minSaturation, maxSaturation) + "%, " + getRandomInRange(minLightness, maxLightness) + "%)";
+      
+      return color;
+    }
+
+    function randomizeDog() {
+      var dog = document.getElementsByClassName('dog')[0];
+      var collar = document.getElementById('collar');
+      var frame = document.getElementById('frame');
+
+      if (frame) {
+      frame.style.backgroundColor = getColor({ minLightness: 40}); 
+      }
+
+      if (collar) {
+        collar.style.backgroundColor = getColor({minSaturation: 75, minLightness: 25, maxLightness: 75 });
+      }  
+
+      if (dog) {
+        var bodyColor = dogColors[Math.floor(Math.random() * dogColors.length)];
+        dog.className = "dog dog-" + bodyColor;
+
+        var ears = document.getElementsByClassName('ear')[0];
+        if(ears) {
+          ears.className = "ear ear-" + Math.ceil(Math.random() * 10);
+        }
+      }
+      
+      generateAccents();
+    }
+
+    function removeOldAccents() {
+      var allAccents = document.getElementsByClassName('accent');
+      
+      while(allAccents[0]) {
+        allAccents[0].parentNode.removeChild(allAccents[0]);
+      }
+    }
+
+
+    function generateAccents() {
+      var totalAccentsAvailable = 5
+
+      removeOldAccents();
+      var numberOfAccents = Math.floor(Math.random() * totalAccentsAvailable);
+
+      for (var i = 0; i <= numberOfAccents; i++) {
+        var accent = Math.ceil(Math.random() * totalAccentsAvailable);
+        
+        var accentColorIndex = Math.floor((1 - Math.sqrt(1 - Math.random())) * dogColors.length);
+        if (accentColorIndex !== 0) {
+          accentColorIndex = Math.floor((1 - Math.sqrt(1 - Math.random())) * dogColors.length);
+        }
+        
+        var accentColor = dogColors[accentColorIndex];
+        
+          var accentDiv = document.createElement("div");
+          var accentClass = `accent accent-${accentColor} accent-${accent}`;
+          accentDiv.className = accentClass;
+        
+        if (accent > 3) {
+          var torsoDiv = document.getElementsByClassName('torso')[0];
+          torsoDiv.appendChild(accentDiv);
+        } else {
+          var eyesDiv = document.getElementsByClassName('eyes')[0];
+          var firstEye = document.getElementsByClassName('eye')[0];
+          eyesDiv.insertBefore(accentDiv, firstEye);
+        }
+      }
+    }
+
+    function likeDog() {
+      var praises = ["Good boy!", "Have a<br/>treat!", "OMG<br/>puppy!!", "WOW!<br/>Such doge!", "Woof!", "Bark!", "Good dog!", "Good pup!", "<3!"]
+      var overlay = document.getElementById('overlay');
+      overlay.className = 'overlay visible';
+      overlay.innerHTML = praises[Math.floor(Math.random() * praises.length)];
+      setTimeout(() => {
+          overlay.className = 'overlay';
+        randomizeDog();
+      }, 1000)
+    }
+
+    randomizeDog();
+  </script>
+</body>
+</html>
+
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+1556942722996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1iX6rH0I4VAG"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556942729495	Marionette	INFO	Listening on port 41693
+1556942729556	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8905): dconf-WARNING **: 12:07:07.815: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+1556943075674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.U5EyvTEgopht"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556943080399	Marionette	INFO	Listening on port 42257
+1556943080510	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13974): dconf-WARNING **: 12:12:58.899: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13974, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1556943466613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y7S7rNv1LrLL"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556943470859	Marionette	INFO	Listening on port 46583
+1556943470932	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14393): dconf-WARNING **: 12:19:28.878: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: null has no properties
+1556943668643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EhyfbqPJmRKB"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556943673072	Marionette	INFO	Listening on port 38247
+1556943673164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+[Child 14696, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1556943875596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uPBk1ASldLu5"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556943879815	Marionette	INFO	Listening on port 41831
+1556943879927	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17378): dconf-WARNING **: 12:26:17.843: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556944681139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.89Dwymto2E44"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556944686464	Marionette	INFO	Listening on port 36639
+1556944686575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556944837620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BiQSOEgH54od"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+[Parent 29452, Gecko_IOThread] WARNING: pipe error (92): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1556944842714	Marionette	INFO	Listening on port 35167
+1556944842752	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30908): dconf-WARNING **: 12:42:19.487: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556945418628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Kh17y4FebGyM"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556945423271	Marionette	INFO	Listening on port 36533
+1556945423349	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2336): dconf-WARNING **: 12:52:00.663: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556945638986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2okNq5BaQBq1"
+[Parent 2291, Gecko_IOThread] WARNING: pipe error (109): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556945644671	Marionette	INFO	Listening on port 41351
+1556945644723	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2796): dconf-WARNING **: 12:55:43.157: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556946010897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hf7KanCNSIA9"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556946015266	Marionette	INFO	Listening on port 37117
+1556946015351	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4409): dconf-WARNING **: 13:01:52.897: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556946425025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yRbDYoFzsP24"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556946436034	Marionette	INFO	Listening on port 35473
+1556946436093	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8770): dconf-WARNING **: 13:08:56.103: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1556946568150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xAjA6Vt7D9xW"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556946579270	Marionette	INFO	Listening on port 43341
+1556946579304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9257, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1556946741995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FsjsF4fzBmwC"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1556946747645	Marionette	INFO	Listening on port 38019
+1556946747723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null

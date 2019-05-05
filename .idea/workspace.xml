@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="90bf22ac-8d22-4e4a-88ec-991ab3f55d50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/ALL_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/ALL_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/OnePerson_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/OnePerson_info.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/爬虫/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +19,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬虫/OnePerson_info.py">
+        <entry file="file://$PROJECT_DIR$/爬虫/ALL_links.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-671">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="250">
+              <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
               <folding>
-                <element signature="e#30#41#0" expanded="true" />
+                <element signature="e#24#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,16 +46,17 @@
       <list>
         <option value="$PROJECT_DIR$/../XDF.py" />
         <option value="$PROJECT_DIR$/爬虫/matchJ_love.py" />
-        <option value="$PROJECT_DIR$/爬虫/ALL_links.py" />
         <option value="$PROJECT_DIR$/爬虫/OnePerson_info.py" />
+        <option value="$PROJECT_DIR$/pyautogui_test.py" />
+        <option value="$PROJECT_DIR$/爬虫/ALL_links.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="416" />
-    <option name="y" value="140" />
-    <option name="width" value="1316" />
-    <option name="height" value="578" />
+    <option name="x" value="60" />
+    <option name="y" value="248" />
+    <option name="width" value="1306" />
+    <option name="height" value="588" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -61,6 +64,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,7 +81,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -97,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.OnePerson_info">
+  <component name="RunManager" selected="Python.ALL_links">
     <configuration name="ALL_links" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MatchJapan_LOVES" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,10 +185,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pyautogui_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MatchJapan_LOVES" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyautogui_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.OnePerson_info" />
         <item itemvalue="Python.ALL_links" />
+        <item itemvalue="Python.pyautogui_test" />
+        <item itemvalue="Python.OnePerson_info" />
         <item itemvalue="Python.matchJ_love" />
         <item itemvalue="Python.XDF" />
       </list>
@@ -213,7 +238,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.53846157" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37587413" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,7 +246,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32342657" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -233,19 +258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/ALL_links_parse.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/ALL_links.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="40" column="52" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="52" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -261,10 +273,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/OnePerson_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-671">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="400">
+          <caret line="93" column="32" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
           <folding>
             <element signature="e#30#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/ALL_links_parse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyautogui_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="22" selection-start-line="22" selection-end-line="26" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/ALL_links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
