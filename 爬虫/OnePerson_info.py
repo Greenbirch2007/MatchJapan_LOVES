@@ -45,6 +45,24 @@ def parse_pages(html):
     return big_list
 
 
+def Python_sel_Mysql():
+    # 使用cursor()方法获取操作游标
+    connection = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='123456', db='MatchJ_love',
+                                 charset='utf8mb4', cursorclass=pymysql.cursors.DictCursor)
+    cur = connection.cursor()
+    #sql 语句
+    for i in range(1,13525):
+        sql = 'select links from Distinct_links where id = %s ' % i
+        # #执行sql语句
+        cur.execute(sql)
+        # #获取所有记录列表
+        data = cur.fetchone()
+        url = data['links']
+        yield url
+
+
+
+
 
 def insertDB(content):
     connection = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='123456', db='MatchJ_love',
@@ -69,7 +87,7 @@ if __name__ == '__main__':
     picDown = []
 
     url = 'https://jp.match.com/login/'  # 直接到登录界面！
-    driver = webdriver.Firefox()
+    driver = webdriver.Chrome()
     driver.get(url)
 
     driver.find_element_by_xpath('//*[@id="email"]').send_keys("291109028@qq.com")  # 用户名
@@ -79,19 +97,18 @@ if __name__ == '__main__':
     time.sleep(1)
 
 
+    for url_str in Python_sel_Mysql():
+        url_Person = url_str
+        html = call_pages(url_Person)
+        content = parse_pages(html)
+        insertDB(content)
 
+        for item in picDown:
+            url_name = url_Person[29:52] + random.choice(url_Person)
 
-    url_Person ='https://jp.match.com/profile/biOCflpwSLPBsUsUGsQjPQ2?page=5&searchType=oneWaySearch&sortBy=1'
-    html = call_pages(url_Person)
-    content = parse_pages(html)
-    insertDB(content)
+            urllib.request.urlretrieve(item, '/home/g/Documents/matchLove_Pics/%s.jpg' % url_name )
 
-    for item in picDown:
-        url_name = url_Person[29:52] + random.choice(url_Person)
-
-        urllib.request.urlretrieve(item, '/home/g/Documents/matchLove_Pics/%s.jpg' % url_name )
-
-    print(datetime.datetime.now())
+        print(datetime.datetime.now())
 
 
 
@@ -111,7 +128,7 @@ if __name__ == '__main__':
 # rearch_for text
 # ) engine =InnoDB charset=utf8;
 
-# drop table ALlText_words_link1;
+# drop table MatchLove_OnePersonInfo;
 #
 
 

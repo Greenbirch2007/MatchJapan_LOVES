@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90bf22ac-8d22-4e4a-88ec-991ab3f55d50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/ALL_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/ALL_links.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/爬虫/OnePerson_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/OnePerson_info.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/爬虫/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/geckodriver.log" afterDir="false" />
     </list>
@@ -18,16 +16,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/爬虫/ALL_links.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+            <state relative-caret-position="332">
+              <caret line="110" column="29" selection-start-line="110" selection-start-column="15" selection-end-line="110" selection-end-column="29" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/爬虫/OnePerson_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="96" selection-end-column="19" />
+              <folding>
+                <element signature="e#30#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/ALL_links_parse.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -46,13 +61,13 @@
       <list>
         <option value="$PROJECT_DIR$/../XDF.py" />
         <option value="$PROJECT_DIR$/爬虫/matchJ_love.py" />
-        <option value="$PROJECT_DIR$/爬虫/OnePerson_info.py" />
         <option value="$PROJECT_DIR$/pyautogui_test.py" />
         <option value="$PROJECT_DIR$/爬虫/ALL_links.py" />
+        <option value="$PROJECT_DIR$/爬虫/OnePerson_info.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="60" />
     <option name="y" value="248" />
     <option name="width" value="1306" />
@@ -100,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ALL_links">
+  <component name="RunManager" selected="Python.OnePerson_info">
     <configuration name="ALL_links" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MatchJapan_LOVES" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,9 +223,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OnePerson_info" />
         <item itemvalue="Python.ALL_links" />
         <item itemvalue="Python.pyautogui_test" />
-        <item itemvalue="Python.OnePerson_info" />
         <item itemvalue="Python.matchJ_love" />
         <item itemvalue="Python.XDF" />
       </list>
@@ -231,7 +246,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -271,19 +285,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/OnePerson_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="93" column="32" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
-          <folding>
-            <element signature="e#30#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/ALL_links_parse.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyautogui_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -294,12 +295,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/ALL_links_parse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/ALL_links.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        <state relative-caret-position="332">
+          <caret line="110" column="29" selection-start-line="110" selection-start-column="15" selection-end-line="110" selection-end-column="29" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/OnePerson_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="96" selection-end-column="19" />
+          <folding>
+            <element signature="e#30#41#0" expanded="true" />
           </folding>
         </state>
       </provider>

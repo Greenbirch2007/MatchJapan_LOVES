@@ -4738,3 +4738,11 @@ JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactM
 JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
 JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
 JavaScript error: https://cdn.services.match.com/coreweb/bundles/49/ja-JP-reactModules-7220ec462d1ba04fbaef.chunk.js, line 123: TypeError: e is null
+1557043944718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XeseVqO9lPZ3"
+1557044002456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Bqatw9Oo52Tv"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1557044010941	Marionette	INFO	Listening on port 44421
+1557044010995	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2570, Chrome_ChildThread] WARNING: pipe error (38): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2570, Chrome_ChildThread] WARNING: pipe error (33): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2570, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
