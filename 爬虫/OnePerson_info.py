@@ -4,6 +4,7 @@ import time
 import re
 import urllib
 
+import pyautogui
 import pymysql
 import requests
 from selenium import webdriver
@@ -26,13 +27,14 @@ def call_pages(url):
 def parse_pages(html):
     big_list = []
     selector = etree.HTML(html)
+    not_open = selector.xpath('//*[@id="mainContent"]/section/h2/span/text()')
+
     name = selector.xpath('//*[@id="mainContent"]/section/article/div[2]/div[2]/div[1]/div[1]/h2/div/text()')
     age_location = selector.xpath('//*[@id="mainContent"]/section/article/div[2]/div[2]/div[2]/span/text()')
     couple_g = selector.xpath('//*[@id="mainContent"]/section/article/div[2]/div[2]/div[1]/div[2]/div[2]/div/div/text()')
     education = selector.xpath('//*[@id="mainContent"]/section/article/section[2]/div/ul/li[2]/div[1]/div/span/text()')
     high = selector.xpath('//*[@id="mainContent"]/section/article/section[2]/div/ul/li[8]/div[1]/div/span/text()')
     rearch_for = selector.xpath('//*[@id="mainContent"]/section/article/div[2]/div[2]/div[3]/span/span/text()')
-
 
 
     for i1,i2,i3,i4,i5,i6 in zip(name,age_location,couple_g,education,high,rearch_for):
@@ -94,10 +96,15 @@ if __name__ == '__main__':
 
 
     for url_str in Python_sel_Mysql():
-        url_Person = url_str
-        html = call_pages(url_Person)
+        pyautogui.keyDown("down")  # 按下往下
+
+        html = call_pages(url_str)
+        time.sleep(3)  # 要进行测试的参数
+
+
         content = parse_pages(html)
         insertDB(content)
+
 
 
         print(datetime.datetime.now())
@@ -121,6 +128,6 @@ if __name__ == '__main__':
 # ) engine =InnoDB charset=utf8;
 
 # drop table MatchLove_OnePersonInfo;
-#
+
 
 

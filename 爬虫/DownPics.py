@@ -4,6 +4,7 @@ import time
 import re
 import urllib
 
+import pyautogui
 import pymysql
 import requests
 from selenium import webdriver
@@ -13,6 +14,12 @@ import string
 from lxml import etree
 import random
 
+from selenium import webdriver
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium.webdriver.support.ui import WebDriverWait
+
+desired_capabilities = DesiredCapabilities.CHROME  # 修改页面加载策略
+desired_capabilities["pageLoadStrategy"] = "none"  # 注释这两行会导致最后输出结果的延迟，即等待页面加载完成再输出
 
 
 def call_pages(url):
@@ -45,8 +52,7 @@ def Python_sel_Mysql():
 
 
 
-
-
+# 图片下载放弃了，搞点数据吧
 
 
 # 先登录，再遍历访问路由
@@ -55,6 +61,7 @@ if __name__ == '__main__':
 
     url = 'https://jp.match.com/login/'  # 直接到登录界面！
     driver = webdriver.Firefox()
+
     driver.get(url)
 
     driver.find_element_by_xpath('//*[@id="email"]').send_keys("291109028@qq.com")  # 用户名
@@ -63,51 +70,55 @@ if __name__ == '__main__':
     driver.find_element_by_xpath('//*[@id="mainContent"]/section/form/div/div/div[1]/div[5]/button').click()
     time.sleep(1)
 
-
     for url_str in Python_sel_Mysql():
+
+        pyautogui.keyDown("down")  # 按下往下
         url_Person = url_str
         html = call_pages(url_str)
         selector = etree.HTML(html)
+        # 图像图片
+        p_f = []
+        # 需要一个不公开数据的情况，需要额外进行判断
+        not_open = selector.xpath('//*[@id="mainContent"]/section/h2/span/text()')
+        picture1 = selector.xpath('//*[@id="mainContent"]/section/article/div[2]/div[1]/img/@src')
+        pictures2 = selector.xpath('//*[@id="mainContent"]/section/article/section[3]/div/div/div/div/div/img/@src')
 
-        pictures = selector.xpath('//*[@id="mainContent"]/section/article/section[3]/div/div/div/div/div/img/@src')
-        if len(pictures) == 0:
+        #还是要头像的图片的！就放一个晚上
+        # 只打印有其他很多图片的头像，只有一个头像就算了
+
+
+        #如果没有图片，就直接跳过，有了再去添加，遍历  优化测试
+
+        if len(pictures2) == 0:
+
             print("本页面没有图片～～～～")
             continue  # 必须放在一个循环体中！所以稍微改动一些
             # break是跳过所有循环，continue是跳过本次循环
 
-        else:
+        elif len(not_open)==9:
+            print("本页面没有图片～～～～")
+            continue  # 必须放在一个循环体中！所以稍微改动一些
+            # break是跳过所有循环，continue是跳过本次循环
 
-            for item in pictures:
+
+        else:
+            for i in picture1:
+                p_f.append(i)
+
+            for i in pictures2:
+                p_f.append(i)
+
+            for item in p_f:
                 downPic = item[:-11]
                 picDown.append(downPic)
 
-
-        for item in picDown:
-            url_name = url_Person[29:52] + random.choice(url_Person)
-
-            urllib.request.urlretrieve(item, '/home/g/Documents/matchLove_Pics/%s.jpg' % url_name )
-
-        print(datetime.datetime.now())
+            try:
+                for item in picDown:
+                    url_name = url_Person[29:52] + random.choice(url_Person)
 
 
-
-
-
-
-
-
-#
-# create table MatchLove_OnePersonInfo (
-# id int not null primary key auto_increment,
-# name varchar(30),
-# age_location varchar(60),
-# couple_g varchar(30),
-# education varchar(30),
-# high varchar(30),
-# rearch_for text
-# ) engine =InnoDB charset=utf8;
-
-# drop table MatchLove_OnePersonInfo;
-#
-
+                    urllib.request.urlretrieve(item, '/home/g/Documents/matchLove_Pics/%s.jpg' % url_name )
+                    print(datetime.datetime.now())
+            except:
+                pass
 
